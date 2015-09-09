@@ -1,1 +1,1 @@
-# Lab7-C
+# IRC Client
